@@ -1,6 +1,7 @@
 
 لا تنسى تثبيت المتطلبات من المكاتب
 ```
+git clone https://github.com/0XJacks/WJ.git 
 pip install pyfiglet
 pip install BeautifulSoup
 pip install socket
